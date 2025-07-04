@@ -1,0 +1,7 @@
+{
+  "name": "Disaster Management App",
+  "description": "A comprehensive application for disaster response management, including resident tracking, event monitoring, and status updates via QR code scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
